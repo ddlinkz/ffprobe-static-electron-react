@@ -1,13 +1,11 @@
-ffprobe-static
+ffprobe-static-electron-react
 ====
 
-Static binaries for `ffprobe`.
+Static binaries for `ffprobe` for use in Electron + React renderer process
 
 Based on <https://github.com/eugeneware/ffmpeg-static>.
 
 Binaries are from <http://ffmpeg.zeranoe.com/builds/>
-
-Modified ffprobe-static for use in an Electron + React renderer process.
 
 Usage
 ----
