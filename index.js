@@ -23,7 +23,7 @@ if (platform === 'darwin' && arch !== 'x64') {
 
 var ffprobePath = path.join(
   'node_modules',
-  'ffprobe-static',
+  'ffprobe-static-electron-react',
   'bin',
   platform,
   arch,

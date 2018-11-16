@@ -1,6 +1,6 @@
 {
   "name": "ffprobe-static-electron-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ffmpeg-probe for use in an Electron + React based project",
   "main": "index.js",
   "author": {
